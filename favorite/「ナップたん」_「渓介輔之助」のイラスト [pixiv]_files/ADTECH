@@ -1,0 +1,8 @@
+document.write("<scr"+"ipt type='text/javascript'>\n");
+document.write("gpb_1090110.passBack();\n");
+document.write("</scr"+"ipt>\n");
+
+
+document.write('<img src="http://pixel.quantserve.com/pixel/p-Ua0xnJF7V0PpX.gif?idmatch=0" width="1" height="1" style="display:none;">');
+document.write('<img src="http://rp.gwallet.com/r1/cm/p82r" width="1" height="1" style="display:none;">');
+document.write('<img src="http://ums.adtechjp.com/mapuser?providerid=1034;getuser=http://pr-bh.ybp.yahoo.com/sync/adtech/$UID" width="1" height="1" style="display:none;">');

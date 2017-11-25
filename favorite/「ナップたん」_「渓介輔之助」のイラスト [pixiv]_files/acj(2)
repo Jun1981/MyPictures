@@ -1,0 +1,25 @@
+OX_9086293414({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"http://ox-d.oxjapan.servedbyopenx.com/{medium}/1.0/{rtype}?ts={txn_state}",
+    "pixels":"http://jp-u.openx.net/w/1.0/pd?plm=5&ph=1f4791cd-8e39-4cf0-ae3b-e0b70617b9bb",
+    "adunits" : [
+      {
+        "auid":"538014309",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "width":"728",
+            "height":"90",
+            "html":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-2235350438225973\";\n/* pixiv\uff08PC\u7248\uff09 \u30b9\u30fc\u30d1\u30fc\u30d0\u30ca\u30fc\uff08\u9023\uff09 */\ngoogle_ad_slot = \"7587742084\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>",
+            "target":"_blank",
+            "ts":"1fHJpZD1lYzdjY2VjOC1lODJiLTRhZDMtOGQ5Ni1mNzIyODk3OThjNTN8cnQ9MTQ3NDY2MDg3MXxhdWlkPTUzODAxNDMwOXxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcxOTc2ODl8cHViPTUzNzExMjU2MXxwYz1KUFl8cmFpZD0xMWQ5MDhmNC05MmU0LTQ4YTEtOGFkNC1hMDc0NDI5ZmE2NWR8dXI9RENBTlF3ZE5EVw",
+            "type":"html",
+            "ad_url":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-2235350438225973\";\n/* pixiv\uff08PC\u7248\uff09 \u30b9\u30fc\u30d1\u30fc\u30d0\u30ca\u30fc\uff08\u9023\uff09 */\ngoogle_ad_slot = \"7587742084\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>"
+          }
+        ]
+      }
+    ]
+  }
+});
